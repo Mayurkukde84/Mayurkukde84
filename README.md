@@ -7,7 +7,7 @@
 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,js,html,css,wasm)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,js,mongodb,nodejs,expressjs,html,css,wasm)](https://skills.thijs.gg)
 
 
 
