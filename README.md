@@ -1,5 +1,5 @@
 ### Hi there ✌️
-[![Mayurkukde84 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayurkukde84)](https://github.com/Mayurkukde84/github-readme-stats)
+
 ![ Mayurkukde84 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayurkukde84&show_icons=true&theme=tokyonight)
 
 <!--
