@@ -1,4 +1,5 @@
 ### Hi there ✌️
+[![Mayurkukde84 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayurkukde84)](https://github.com/Mayurkukde84/github-readme-stats)
 
 <!--
 **Mayurkukde84/Mayurkukde84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
