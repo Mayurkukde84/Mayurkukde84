@@ -1,6 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Fullstack+Developer...)](https://git.io/typing-svg)
-<h3 align="center">A passionate fullstack developer</h3>
+
 <hr />
 
 ![ Mayurkukde84 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayurkukde84&show_icons=true&theme=tokyonight)
