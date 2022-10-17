@@ -1,5 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Fullstack+Developer...)](https://git.io/typing-svg)
+<h3 align="center">A passionate fullstack developer</h3>
+<hr />
 
 ![ Mayurkukde84 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayurkukde84&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurkukde84&layout=compact)](https://github.com/Mayurkukde84/github-readme-stats)
@@ -11,7 +13,7 @@
 
 <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Fullstack+Developer...)](https://git.io/typing-svg)</div>
 
-<h3 align="center">A passionate fullstack developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurkukde84&label=Profile%20views&color=0e75b6&style=flat" alt="mayurkukde84" /> </p>
 
