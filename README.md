@@ -11,7 +11,7 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=react,redux,regex,stackoverflow,vscode,js,mongodb,nodejs,expressjs,html,css,bootstrap,d3,firebase,github,materialui,netlify)](https://skills.thijs.gg)
 
-<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Fullstack+Developer...)](https://git.io/typing-svg)</div>
+
 
 
 
