@@ -6,7 +6,7 @@
 ![ Mayurkukde84 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayurkukde84&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurkukde84&layout=compact)](https://github.com/Mayurkukde84/github-readme-stats)
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 >Languages and Tools:</h3>
 
 [![My Skills](https://skills.thijs.gg/icons?i=react,redux,regex,stackoverflow,vscode,js,mongodb,nodejs,expressjs,html,css,bootstrap,d3,firebase,github,materialui,netlify)](https://skills.thijs.gg)
 
