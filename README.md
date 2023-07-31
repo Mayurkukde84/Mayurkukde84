@@ -8,7 +8,7 @@
 
 <h3 >Languages and Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,redux,regex,stackoverflow,vscode,js,mongodb,nodejs,expressjs,html,css,bootstrap,d3,firebase,typeScript,github,materialui,netlify)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,redux,regex,stackoverflow,vscode,js,mongodb,nodejs,expressjs,html,css,bootstrap,d3,firebase,typescript,github,materialui,netlify)](https://skills.thijs.gg)
 
 
 
