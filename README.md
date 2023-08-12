@@ -4,7 +4,7 @@
 <div>
 
 ![ Mayurkukde84 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayurkukde84&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurkukde84&layout=compact)](https://github.com/Mayurkukde84/github-readme-stat)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurkukde84&layout=compact)](https://github.com/Mayurkukde84/github-readme-stats)
 
 <h3 >Languages and Tools:</h3>
 
